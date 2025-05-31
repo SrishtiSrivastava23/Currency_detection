@@ -1,7 +1,3 @@
-Here’s a polished and complete version of your README content with the Environment Setup formatted properly and continuation for usage and instructions:
-
----
-
 # Counterfeit Currency Detection Using CNN and SVM
 
 ## Project Description
