@@ -8,6 +8,7 @@ This project implements two machine learning techniques to detect counterfeit cu
 2. **Convolutional Neural Network (CNN)** leveraging deep learning for image classification
 
 The dataset consists of images of 500 rupee Indian currency notes labeled as real or fake. The goal is to accurately classify the authenticity of currency notes.
+![Uploading Screenshot 2025-07-05 170026.png…]()
 
 ---
 
